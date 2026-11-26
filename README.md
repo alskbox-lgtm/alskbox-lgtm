@@ -1,46 +1,30 @@
-<div align="center">
+# 👋 Hey, I'm **AlskBox**
 
-```text
-   __    _                  ____            
-  / /   (_)___  __  ___  __/ __ )____  _  __
- / /   / / __ \/ / / / |/_/ __  / __ \| |/_/
-/ /___/ / / / / /_/ />  </ /_/ / /_/ />  <  
-/_____/_/_/ /_/\__,_/_/|_/_____/\____/_/|_|  
-```
+> **Bringing desktop-class tools, workflows, and power-user utilities to Android phones and tablets.**
 
-### Android & Linux Systems Builder
-
-`Kotlin` · `Jetpack Compose` · `C / JNI` · `Android NDK` · `PRoot` · `Linux Containers`
-
-</div>
+I build practical, native Android & tablet applications designed to turn mobile devices into real productivity machines — with full browser engines, extensions, split-view AI assistants, keyboard shortcuts, and zero-bloat architecture.
 
 ---
 
-### `$ whoami`
+### 🚀 Featured Projects
 
-Desenvolvedor focado em **sistemas móveis, baixo nível no Android e ambientes Linux portáteis**.  
-Construindo ferramentas que transformam smartphones em estações Linux completas — **sem root, sem computador e sem dependências externas**.
-
----
-
-### Projeto em Destaque
-
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| [**LinuxBox**](https://github.com/alskbox-lgtm/LinuxBox) | Emulador/container Linux autônomo no Android com Alpine embutido offline, PTY nativo via JNI, Loja de Programas (`apk`/`apt`/`pacman`/`dnf`) e Desktop X11 + VNC integrado. | `Kotlin` `Compose` `C11` `NDK` `PRoot` |
-
-> [Baixar última versão do APK (LinuxBox)](https://github.com/alskbox-lgtm/LinuxBox/releases/latest)
+#### 🐺✨ [LibrePad AI Browser](https://github.com/alskbox-lgtm/LibrePadBrowser)
+Desktop-grade privacy browser for **Android & Tablets** built on **Mozilla GeckoView (LibreWolf architecture)**:
+- **Full WebExtensions Support**: Pre-installed **uBlock Origin**, Mozilla Add-ons (AMO) & `.xpi` installer.
+- **Google & Gemini Ready**: Persistent Google Account login with **Total Cookie Protection (dFPI)** & Passkeys.
+- **Hybrid AI Split-View**: Side-by-side **Gemini Web** + native contextual assistant (**Gemini API**, **Ollama**, or **Offline TF-IDF**).
+- **Tablet & DeX Ergonomics**: Desktop-style tab bar, resizable split-view, stylus selection actions & physical keyboard shortcuts (`Ctrl+T`, `Ctrl+W`, `Ctrl+L`, `Ctrl+G`, `Ctrl+Tab`).
 
 ---
 
-### Stack & Ferramentas
+### 🛠️ Core Stack & Focus
 
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- **Mobile & Tablet UI**: Kotlin, Jetpack Compose, Material 3 Adaptive (`WindowSizeClass`), Samsung DeX / Multi-Window
+- **Engines & Extensions**: Mozilla GeckoView, WebExtensions API, Native Messaging Bridges
+- **AI & Automation**: Google Gemini API, Local LLMs (Ollama / OpenAI-compatible), On-Device Context Extraction
+- **Privacy & Networking**: LibreWolf Hardening, DNS-over-HTTPS (TRR), Total Cookie Protection
+
+---
+
+### 📫 Connect
+- GitHub: [@alskbox-lgtm](https://github.com/alskbox-lgtm)
